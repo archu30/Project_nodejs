@@ -1,5 +1,8 @@
-body{
+body {
     margin: 0;
     /* text-align: center; */
-    background-color: aquamarine;
 }
+    body #layout-main {
+      height: 100%; 
+    }
+  
